@@ -1,3 +1,9 @@
+/*
+ * C# Assessment 2 – Version Control Proof
+ * Author: Maria Camila Parada
+ * Date: 1 Nov 2025
+ * Notes: DVCS via Git + GitHub from VS2022
+ */
 namespace Assessment2Maria
 {
     internal static class Program 
